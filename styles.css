@@ -1,0 +1,65 @@
+/* Custom Styles for LearnPro */
+
+/* Reset body margin and set font */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+/* Hero section with background image */
+.hero {
+  background: url('../images/hero.webp') center/cover no-repeat;
+}
+
+/* Call-to-action background */
+.cta {
+  background-color: #007bff; /* Bootstrap primary blue */
+  color: #fff;
+}
+
+/* Center CTA text color for contrast */
+.cta h2, .cta p {
+  color: #fff;
+}
+
+/* Grid layout for features */
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+/* Hover effect on feature items */
+.feature-item:hover {
+  background-color: #e9ecef;
+  transition: background-color 0.3s ease;
+}
+
+/* Footer links spacing */
+footer a {
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 576px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+}
+/* Custom LearnPro blue theme styles */
+.accordion-button {
+    background-color: #007bff;
+    color: #fff;
+}
+.accordion-button:hover,
+.accordion-button:not(.collapsed) {
+    background-color: #0056b3;
+    color: #fff;
+}
+.accordion-button:focus {
+    box-shadow: none;
+}
+.progress-bar {
+    background-color: #007bff;
+}
