@@ -6,25 +6,7 @@ A modern, responsive educational website featuring both static “Featured” co
 
 ---
 
-## Demo
 
-> **Live Preview:** (after deployment, your GitHub Pages or Netlify URL goes here)
-
-### Screenshots
-
-| Home Page (Desktop) | Courses Page (API & Featured) |
-|:-------------------:|:-----------------------------:|
-| ![Home Page](images/hero.webp) | ![Courses Page](images/course1.webp) |
-
-| Web Development Quiz | UI/UX Design Quiz |
-|:---------------------:|:-----------------:|
-| ![Web Dev Quiz](images/course1.webp) | ![UI/UX Quiz](images/course2.webp) |
-
-| Contact Form (Validation) | Sign Up Form (Validation) |
-|:------------------------:|:------------------------:|
-| ![Contact Form](images/course3.webp) | ![Sign Up Form](images/team1.webp) |
-
----
 
 ## About
 
